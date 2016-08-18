@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_20521369",
+        "filename": "arch/arm/configs/cm_exynos5433-trelte_defconfig",
+        "patchSetId": 2
+      },
+      "lineNbr": 4251,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-08-18T07:12:57Z",
+      "side": 1,
+      "message": "I think this does what you think it does.\nhttp://lxr.linux.no/linux+v4.7.1/fs/ntfs/Kconfig#L51\n\nYou should probably remove this.",
+      "revId": "6b0c0167c9169d517094f3c435c9af1bf04873cd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_00559750",
+        "filename": "arch/arm/configs/cm_exynos5433-trelte_defconfig",
+        "patchSetId": 2
+      },
+      "lineNbr": 4284,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-08-18T07:12:57Z",
+      "side": 1,
+      "message": "Why do we want this in Cyanogenmod?",
+      "revId": "6b0c0167c9169d517094f3c435c9af1bf04873cd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
