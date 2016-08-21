@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_446f1ac5",
+        "filename": "arch/arm/configs/cm_exynos5433-trhplte_defconfig",
+        "patchSetId": 5
+      },
+      "lineNbr": 4263,
+      "author": {
+        "id": 7155
+      },
+      "writtenOn": "2016-08-21T09:10:45Z",
+      "side": 1,
+      "message": "Whitespace..",
+      "revId": "adc41d286df34f5490fe6c455f09a361c2d03fc8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
